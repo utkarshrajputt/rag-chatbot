@@ -1,2 +1,1 @@
-# rag-chatbot
-Upload PDFs or DOCX files, ask natural language questions, and get accurate answers using sentence embeddings, FAISS search, and Hugging Face LLMs like Mistral-7B — all running inside a Streamlit UI on Google Colab.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/utkarshrajputt/rag-chatbot/blob/main/RAG2.ipynb)
