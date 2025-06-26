@@ -1,0 +1,10 @@
+streamlit
+pyngrok
+torch
+transformers
+sentence-transformers
+faiss-cpu
+PyPDF2
+python-docx
+nltk
+huggingface-hub
