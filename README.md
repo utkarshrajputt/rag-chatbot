@@ -54,14 +54,5 @@ pip install -r requirements.txt
 # OR
 pip install torch transformers sentence-transformers faiss-cpu PyPDF2 python-docx streamlit
 
-🛡️ Secrets
-Secrets like Hugging Face token and ngrok authtoken are pulled from Colab secrets for safety. DO NOT hardcode them.
-
-✨ Demo
-
-👨‍💻 Author
-Utkarsh Rajput
-MCA Student | Data + AI Nerd | PMA President at PCCOE
-LinkedIn • GitHub
 
 
