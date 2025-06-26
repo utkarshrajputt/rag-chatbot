@@ -56,3 +56,12 @@ pip install torch transformers sentence-transformers faiss-cpu PyPDF2 python-doc
 
 
 
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! If you have ideas to improve this chatbot (like UI, model switching, or memory optimization), feel free to open an issue or submit a PR.
+
+---
+
