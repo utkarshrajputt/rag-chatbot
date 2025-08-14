@@ -1,0 +1,21 @@
+/* CSS Loading Test */
+body {
+    background-color: #f0f8ff !important;
+    font-family: Arial, sans-serif !important;
+    margin: 20px !important;
+}
+
+.container {
+    background-color: #ffffff !important;
+    border: 2px solid #4CAF50 !important;
+    padding: 20px !important;
+    border-radius: 10px !important;
+}
+
+.title {
+    color: #4CAF50 !important;
+    font-size: 2rem !important;
+    text-align: center !important;
+}
+
+/* If you see green borders and colors, CSS is working! */
